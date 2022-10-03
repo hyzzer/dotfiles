@@ -1,5 +1,4 @@
 [global_config]
-  hide_on_lose_focus = True
   line_height = 1.1
 [keybindings]
   split_vert = <Primary><Shift>e
